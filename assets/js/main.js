@@ -214,6 +214,6 @@ themeButton.addEventListener('click', () => {
 
 //open in a new tab
 function downloadResume() {
-        url = "https://drive.google.com/file/d/15EdL5eSYM9F-koF2hi8VYJlaqQq_JIpc/view?usp=share_link"
+        url = "https://drive.google.com/file/d/1HGYZW7n9kb6H2hKqhzqFqbx741qTWVPq/view?usp=drive_link"
         window.open(url);
 }
